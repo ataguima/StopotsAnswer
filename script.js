@@ -39,7 +39,7 @@
                         {
                             role: "user",
                             parts: [
-                                { text: `I am playing Stopots. The category is "${category}" and the letter is "${letter}". Provide only one Portuguese word that fits the category and starts with the given letter. Do not provide explanations, just the word.` }
+                                { text: `I am playing Stopots. The category is "${category}" and the letter is "${letter}". Provide only one English word that fits the category and starts with the given letter. Do not provide explanations, just the word.` }
                             ]
                         }
                     ]
